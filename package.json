@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rodrigogsn/cicd/issues"
   },
-  "homepage": "https://github.com/rodrigogsn/cicd#readme"
+  "homepage": "https://github.com/rodrigogsn/cicd#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
